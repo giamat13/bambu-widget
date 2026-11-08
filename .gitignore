@@ -1,0 +1,21 @@
+# סודות והגדרות מקומיות (טוקן Bambu, סיסמאות)
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# כלי עזר מקומיים
+.agent-dashboard/
+.vscode/
+.idea/
+
+# מערכת הפעלה
+Thumbs.db
+Desktop.ini
+.DS_Store
